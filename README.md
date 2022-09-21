@@ -1,4 +1,4 @@
-# Rebuild An Rc Car With Esp32 & Arduino Code
+# Rebuild An RC Car With ESP32 & Arduino Code
 The present document provides all the information needed to rebuild an RC CAR from scratch using ESP32-based microcontroller units (MCUs), programmed in Arduino environment. The current project applies to the 1:16 Xinlehong (XLH)9136 model, but can be easily adapted to any RC Car model that incorporates:
 
 a) DC motor for the forward/backward (FW/BW) movement of the car,
